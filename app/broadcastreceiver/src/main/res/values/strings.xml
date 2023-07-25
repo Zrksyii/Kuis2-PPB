@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BroadcastReceiver</string>
+    <string name="check_sms_permission">Check SMS Permission</string>
+    <string name="coming_from">Coming from: %s</string>
+    <string name="this_play">message</string>
+    <string name="close">Tutup</string>
+    <string name="incoming_message">Incoming Message</string>
+    <string name="_20102224_akmal_zarkasyi_haq">20102224_Akmal Zarkasyi Haq</string>
+</resources>

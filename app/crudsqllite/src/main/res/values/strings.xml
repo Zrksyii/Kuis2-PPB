@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CrudSQLLite</string>
+    <string name="title">Judul</string>
+    <string name="category">Kategori</string>
+    <string name="description">Deskripsi</string>
+    <string name="date">Tanggal</string>
+    <string name="submit">Simpan</string>
+    <string name="delete">Hapus</string>
+    <string name="penulis">Penulis</string>
+    <string name="pengingat">Pengingat</string>
+    <string name="_20102224_akmal_zarkasyi_haq">20102224 akmal zarkasyi haq</string>
+</resources>
