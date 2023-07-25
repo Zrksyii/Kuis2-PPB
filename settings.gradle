@@ -1,0 +1,20 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "Kuis2"
+include ':app'
+include ':app:sharedpreferenced'
+include ':app:broadcastreceiver'
+include ':app:crudsqllite'
+include ':app:authfirebase'
